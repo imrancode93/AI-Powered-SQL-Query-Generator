@@ -1,0 +1,30 @@
+# AI Frameworks
+langchain==0.1.7
+llama-index==0.9.40
+crewai==0.1.3
+chromadb==0.4.15
+
+# LLMs & Embeddings
+openai==1.3.7
+transformers==4.36.1
+sentence-transformers==2.3.0
+
+# Backend & API
+fastapi==0.110.0
+uvicorn==0.27.1
+pydantic==2.5.3
+
+# Database Drivers
+sqlalchemy==2.0.25
+psycopg2-binary==2.9.9   # PostgreSQL
+pyodbc==5.1.0            # SQL Server
+mysql-connector-python==8.2.0
+snowflake-connector-python==3.7.0
+
+# Additional Tools
+tqdm==4.66.1
+python-dotenv==1.0.1      # Environment Variables
+loguru==0.7.2            # Logging
+
+# Testing
+pytest==8.0.0
